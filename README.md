@@ -1,4 +1,4 @@
-# Contenido de este repositorio -->modificado local
+# Contenido de este repositorio -->MODIFICADO DESDE GITHUB
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 
